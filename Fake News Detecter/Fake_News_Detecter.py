@@ -1,0 +1,2 @@
+def CheckNews():
+	print("Check")
